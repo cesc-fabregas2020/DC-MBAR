@@ -12,4 +12,4 @@ The UWHAM and SWHAM software packages are also used for comparison[3] (https://r
 
 [2]: M. R. Shirts, J. D. Chodera, J. Chem. Phys. 2008, 129, 124105. https://doi.org/10.1063/1.2978177
 
-[3]: M. R. Shirts, J. D. Chodera, J. Chem. Phys. 2008, 129, 124105. https://doi.org/10.1038/s41598-019-39420-x
+[3]: B. W. Zhang, S. Arasteh, R. M. Levy, Sci Rep 2019, 9, 2803. https://doi.org/10.1038/s41598-019-39420-x
