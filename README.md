@@ -7,6 +7,8 @@ In this study, the pymbar package is used to solve the MBAR equations[2] (https:
 # UWHAM and SWHAM calculations 
 The UWHAM and SWHAM software packages are also used for comparison[3] (https://ronlevygroup.cst.temple.edu/software/UWHAM_and_SWHAM_webpage/index.html). In this work, SWHAM refers to ST-SWHAM with 12 local jump attempts per cycle. For the one-dimensional and two-dimensional cases, 30 million equilibration cycles and 300 million equilibration cycles are used, respectively. 
 
+https://amberhub.chpc.utah.edu/clustering-a-protein-trajectory/
+
 # Reference
 [1]: P. Li, X. Jia, X. Pan, Y. Shao, Y. Mei, J. Chem. Theory Comput. 2018, 14, 5583. https://doi.org/10.1021/acs.jctc.8b00571
 
